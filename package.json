@@ -1,6 +1,6 @@
 {
   "name": "react-render-html",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "No more dangerouslySetInnerHTML, render HTML as React element.",
   "main": "index.js",
   "scripts": {
